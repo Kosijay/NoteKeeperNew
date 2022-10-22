@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="course_name_size">232sp</dimen>
+</resources>

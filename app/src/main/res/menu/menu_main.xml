@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jay.notekeepernew.NoteActivity">
+    <item
+        android:id="@+id/action_Next"
+        android:orderInCategory="101"
+        android:title="@string/next_button"
+        app:icon="@drawable/ic_baseline_arrow_right_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_Prev"
+        android:orderInCategory="100"
+        android:title="@string/prev"
+        app:icon="@drawable/ic_baseline_arrow_left_24"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_how_many"
+        android:orderInCategory="102"
+        android:title="@string/how_many"
+        app:showAsAction="never" />
+</menu>

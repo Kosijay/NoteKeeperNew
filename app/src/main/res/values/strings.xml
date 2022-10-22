@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_note_list">NoteListActivity</string>
+    <string name="note_activity_label">Edit Note</string>
+    <string name="note_title_hint">Note Title</string>
+    <string name="note_text_hint">Note Text</string>
+    <string name="how_many">How Many</string>
+    <string name="prev">Prev</string>
+    <string name="next_button">Next</string>
+    <string name="how_many_message_format">Notes: %1$d | Courses: %2$d</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
